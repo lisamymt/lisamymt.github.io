@@ -1,3 +1,5 @@
+![N予備校ロゴ](478b4cf1-private.png)
+
 # About
 IT業界。  
 新人エンジニア。
